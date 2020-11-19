@@ -1,3 +1,3 @@
-# NSRepos
+# Covid - 19 Tweet Sentiment Analysis
 
-Hello, I'm Neerja. This is the code I've used for various projects in Python, R, and SQL.
+NLP on Tweets to determine public sentiment during the early stages of the pandemic.
