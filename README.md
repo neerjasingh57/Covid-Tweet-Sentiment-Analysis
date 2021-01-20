@@ -30,7 +30,7 @@ corona, covid19, coronavirus, virus, people, amp, covid, test, like, time, new,Â
 
 First, we conducted sentiment analysis using the package vaderSentiment. This was a very helpful package that made it easy to deduce the sentiment of each tweet. I found, after reading some tweets, and observing its sentiment rating, that the sentiment analysis seemed to be accurate.
 
-Scores ranged from -1 to + 1. With close to 0 classified as neutral, -1 as the most negative possible sentiment, and +1 as the most positive possible sentiment. As you can see below, people have strong opinions about politics.
+Scores ranged from -1 to + 1. With close to 0 classified as neutral, -1 as the most negative possible sentiment, and +1 as the most positive possible sentiment. 
 
 We then labeled each score as neutral, negative, or positive. And the same dataset again as neutral, very negative, negative, very positive, and positive to see try and detect more nuanced sentiments.
 
